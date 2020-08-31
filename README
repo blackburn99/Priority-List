@@ -1,1 +1,9 @@
 Priority List(To do list)
+
+Input - Enter the things you desire to do/buy with the priority. A list according to the priority will be created.
+
+1) Enter the Number of entities.
+2) Enter the entity one by one with respective priority mentioned after the name of entity => <entity name> <priority>
+3) You could add as well as remove entities as you fullfill your wish.
+
+
